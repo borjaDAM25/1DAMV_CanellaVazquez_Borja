@@ -17,4 +17,4 @@ Explicandolo con mis palabras, el código fuente sería basicamente lo que nosot
 ## Ejemplo de un lenguaje de programación
 ![Lenguaje de programación](images/pantallaCodigo.jpg)
 
-[Enlace a mi repositorio en GitHub](https://github.com/borjaDAM25/1DAMP_CanellaVazquez_Borja.git)
+[Enlace a mi repositorio en GitHub](https://github.com/borjaDAM25/1DAMV_CanellaVazquez_Borja)
